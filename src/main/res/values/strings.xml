@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Travelling package</string>
+    <string name="travel_packing_list">Travel packing list</string>
+    <string name="textview">TextView</string>
+    <string name="clothing">Clothing</string>
+    <string name="toiletries">Toiletries</string>
+    <string name="documents">Documents</string>
+    <string name="view_full_inventory">View Full Inventory</string>
+    <string name="back_to_main_menu">Back to Main Menu</string>
+</resources>
